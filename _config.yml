@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://edwardwijaya.github.io
+baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Edward Wijaya
+email: edward.wijaya@windowslive.com
+description: "Hi, my name is Edward. I'm an enthusiastic Software Engineer and Analytical person. Backend Development & Automation CI are my forte. Especially interested in tech topics such as, scalable web systems & servers. I'm also currently learning Mobile platforms, and web products such as Google/Facebook products."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -12,58 +12,33 @@ color:
   secondary: fec503  
   secondary-dark: 333
 
-# Team names, titles and social links
+# Person name, titles and social links
 people:
-- name: Kay Garland
+- name: Edward Wijaya
   pic: 1
-  position: Lead Designer
+  position: Solution Engineer / Team Lead
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
+      url: http://www.linkedin.com/pub/edward-wijaya/27/478/935
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/edward.lucius
+    - title: github
+      url: https://github.com/edwardwijaya
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    - title: linkedin
+      url: http://www.linkedin.com/pub/edward-wijaya/27/478/935
+    - title: facebook
+      url: https://www.facebook.com/edward.lucius
+    - title: github
+      url: https://github.com/edwardwijaya
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 29 Hillview Avenue
+  - line: Singapore, 669561
 
 # Build settings
 markdown: kramdown

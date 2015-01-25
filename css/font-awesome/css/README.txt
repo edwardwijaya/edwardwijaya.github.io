@@ -1,0 +1,1 @@
+Check out the list of icons that can be used in the CSS --> http://fontawesome.io/icons/
