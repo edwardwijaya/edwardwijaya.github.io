@@ -22,3 +22,4 @@ Personal info are in '_config.yml'
 View this page in action [here](https://edwardwijaya.github.io)
 
 =======================
+Copyright (C) 2015 - Edward Wijaya 
