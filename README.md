@@ -1,8 +1,5 @@
-Agency Jekyll theme
-====================
-
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
-
+Personal Portfolio Site
+=======================
 # How to use
 
 ###Portfolio 
@@ -15,16 +12,13 @@ Images are in '/img/portfolio'
 
 Images are in '/img/about/'
 
-###Team
+### Personal info
 
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+Personal info are in '_config.yml'
 
 
 # Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View this page in action [here](https://edwardwijaya.github.io)
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+=======================
