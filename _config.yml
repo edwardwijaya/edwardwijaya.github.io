@@ -3,8 +3,8 @@ baseurl:
 
 # Site settings
 title: Edward Wijaya
-email: edward.wijaya@windowslive.com
-description: "Hi, my name is Edward. I'm an enthusiastic Software Engineer and Analytical person. Backend Development & Automation CI are my forte. Especially interested in tech topics such as, scalable web systems & servers. I'm also currently learning Mobile platforms, and web products such as Google/Facebook products."
+email: edward.lucius@gmail.com
+description: "I am a multidisciplinary engineer with expertise in development and implementation in automated builds, deployment pipelines and scaling workflows to handle huge number of hosts in multiple Datacenters. In the same time i’m  the Site Reliability of Apple services serving massive world facing requests."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,7 +16,7 @@ color:
 people:
 - name: Edward Wijaya
   pic: 1
-  position: Solution Engineer / Team Lead
+  position: Senior Site Reliability Engineer
   social:
     - title: linkedin
       url: http://www.linkedin.com/pub/edward-wijaya/27/478/935
@@ -37,8 +37,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 29 Hillview Avenue
-  - line: Singapore, 669561
+  - line: 125 Compassvale Bow
+  - line: Singapore, 544820
 
 # Build settings
 markdown: kramdown
